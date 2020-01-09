@@ -1,0 +1,14 @@
+Normal react app: 
+npx create-react-app name
+--------------------------
+
+
+Json server:
+cd name
+npm install json-server
+Check the version: less package.json
+
+Casual:
+npm install casual
+
+Mockdata:
